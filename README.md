@@ -22,5 +22,8 @@ Power input         | 5V/1A
 Power consumption   | <2.75W
 --------------------|--------------------------------------------------------------
 ```
+
+![pinout](pictures/MT300N-V2_pinout.jpg)
+
 ![top](pictures/top.jpg)
 ![bottom](pictures/bottom.jpg)
